@@ -26,7 +26,9 @@ Formado em tecnologia da informação e atualmente cursando direito. Apredendo n
 
 - Meu perfil da DIO
 <br>
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/rdrbatista)
+<a href="https://www.dio.me/users/rdrbatista">
+  <img src="https://img.shields.io/badge/MEU_PERFIL_DA-DIO-orange">
+</a>
 
 - E é claro que você já está no GitHub (Recursão).
 
