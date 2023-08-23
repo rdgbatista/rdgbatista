@@ -20,9 +20,7 @@ Formado em tecnologia da informação e atualmente cursando direito. Apredendo n
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rodrigo_batista_di)
 
 - Meu perfil da DIO
-<a href="https://www.dio.me/users/rdrbatista">
-  <img src="https://img.shields.io/badge/MEU_PERFIL_DA-DIO-orange">
-</a>
+[![DIO](https://img.shields.io/badge/MEU_PERFIL_DA-DIO-orange)](https://www.dio.me/users/rdrbatista)
 
 - E é claro que você já está no GitHub (Recursão).
 
