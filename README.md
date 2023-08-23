@@ -16,6 +16,7 @@ Formado em tecnologia da informação e atualmente cursando direito. Apredendo n
 <a href="https://www.facebook.com/rdrbatista">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
 </a>
+<br>
 
 - Meu perfil de fotos feias na web
 <a href="https://www.instagram.com/rodrigo_batista_di">
