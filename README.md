@@ -13,19 +13,16 @@ Formado em tecnologia da informação e atualmente cursando direito. Apredendo n
 ## Entre em contato:
 
 - Seu futuro amigo (ex-amigo - só posto tranqueira lá) no
-<br> 
 <a href="https://www.facebook.com/rdrbatista">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
 </a>
 
 - Meu perfil de fotos feias na web
-<br>
 <a href="https://www.instagram.com/rodrigo_batista_di">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
 - Meu perfil da DIO
-<br>
 <a href="https://www.dio.me/users/rdrbatista">
   <img src="https://img.shields.io/badge/MEU_PERFIL_DA-DIO-orange">
 </a>
